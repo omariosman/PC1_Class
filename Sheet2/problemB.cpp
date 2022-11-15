@@ -3,7 +3,7 @@
     Problem: B - Is it a tree
     Link: https://vjudge.net/problem/CodeChef-PD31
     Algorithm: DFS
-    Status: Accepted
+    Verdict: Accepted
 
     Notes:
     In order for the graph to be a tree, 2 conditions need to be fulfilled:
