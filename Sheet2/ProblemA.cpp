@@ -3,7 +3,7 @@
   Problem: A - FOODIE
   Link: https://vjudge.net/problem/SPOJ-FOODIE
   Algorithm: DP
-  Status: Accepted
+  Verdict: Accepted
 */
 
 #include <bits/stdc++.h>
