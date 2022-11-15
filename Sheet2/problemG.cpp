@@ -3,7 +3,7 @@
   Problem: G - Knight Moves
   Link: https://vjudge.net/problem/SPOJ-KNIGHTMV
   Algorithm: BFS
-  Status: Accepted
+  Verdict: Accepted
 */
 
 #include <bits/stdc++.h>
