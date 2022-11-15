@@ -1,5 +1,5 @@
 /*
-  Shhet 2
+  Sheet 2
   Problem: A - FOODIE
   Link: https://vjudge.net/problem/SPOJ-FOODIE
   Algorithm: DP
