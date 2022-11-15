@@ -1,8 +1,14 @@
 /*
-In order for the graph to be a tree, 2 conditions need to be fulfilled:
-1- Number of nodes = Number of edges - 1
-2- The graph is connected (ya3ni we can reach all the nodes from root node)
-Status: Accepted
+    Sheet 2
+    Problem: B - Is it a tree
+    Link: https://vjudge.net/problem/CodeChef-PD31
+    Algorithm: DFS
+    Status: Accepted
+
+    Notes:
+    In order for the graph to be a tree, 2 conditions need to be fulfilled:
+    1- Number of nodes = Number of edges - 1
+    2- The graph is connected (ya3ni we can reach all the nodes from root node)
 */
 
 #include<iostream>
