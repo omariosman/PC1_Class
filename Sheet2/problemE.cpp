@@ -3,7 +3,7 @@
   Problem: E - Princess Farida
   Link: https://vjudge.net/problem/SPOJ-FARIDA
   Algorithm: DP
-  Status: Accepted
+  Verdict: Accepted
 */
 
 #include <bits/stdc++.h>
